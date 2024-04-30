@@ -1,0 +1,5 @@
+.venv
+
+main.db
+
+*__pycache__*
