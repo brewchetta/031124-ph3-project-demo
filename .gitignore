@@ -1,5 +1,6 @@
 .venv
 
-main.db
+# main.db
+# normally we'd exclude the main.db but in this case I'm including it for posterity
 
 *__pycache__*
